@@ -1,1 +1,2 @@
-# medikonne-server-app
+# Medikonne Web Server
+Built on top of Surface.
